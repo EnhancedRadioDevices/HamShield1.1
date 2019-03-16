@@ -1,8 +1,10 @@
 
-HamShield1.0b Hardware
+HamShield1.1 Hardware
 
 
-These are the hardware design files for the HamShield1.0b electronics.
+These are the hardware design files for the HamShield1.1 electronics.
+
+Primary changes from the HamShield1.0b hardware are the RF switches that control what band is active. The entire shield is still compatible with the Arduino library.
 
 These hardware files were created with KiCAD.
 
