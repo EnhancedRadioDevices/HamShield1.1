@@ -1,6 +1,8 @@
 
 HamShield1.1 Hardware
 
+You can purchase HamShield (as well as smaller variants or LoRa version) at http://www.enhancedradio.com/
+
 
 These are the hardware design files for the HamShield1.1 electronics.
 
